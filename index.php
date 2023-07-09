@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-<!-- LINKLYST 1.00 | Created by Brad Linder | RAVEN I|I | https://circa.im -->
+<!-- LINKLYST 1.02 | Created by Brad Linder | RAVEN I|I | https://bradlinder.me -->
 
 <head>
 	<title>Linklyst | For listing all the links.</title>
@@ -45,8 +45,8 @@
 					<!-- Replace Linklyst with your name -->
 					<span itemprop="name">Linklyst</span></a></span>
 			<p class="subtitle">Find me on these platforms</p>
-			<!-- Uncomment the below div if you have a logo you want shown. Most people don't, so it's disabled by default. -->
-			<!-- <div class="header_img"><img src="logo.png" /></div> -->
+			<!-- Comment the below div if you don't have a profile picture or logo you want shown. It must be a square image to look the best. -->
+			<div class="header_img"><img src="logo.png" /></div>
 		</div>
 		<hr class="separator separator--dots" />
 		<div class="main">
