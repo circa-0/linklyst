@@ -1,5 +1,5 @@
-/* LINKLYST 1.00 | Created by Brad Linder | RAVEN I|I */
-/* Change the values below for the color scheme that you want */
+/* LINKLYST 1.02 | Created by Brad Linder | bradlinder.me | RAVEN I|I */
+/* Change the root values below for the color scheme that you want */
 :root {
 	--primaryColor: #7CE5F2;
 	--secondaryColor: #444851;
@@ -7,11 +7,10 @@
 	--linkColor: #ecedef;
 	--nameColor: #7CE5F2;
 }
-/* The bg.jpg should be changed to a picture of your choosing. Recommended size is 1920 x 965 or 1920 x 1080 */
-/* If you don't want a background image, simply comment out the second background line below and it will pull the secondaryColor variable you set at :root instead */
+
 html {
 	background: var(--secondaryColor);
-	/* background: linear-gradient(rgba(39, 40, 45, 0.9), rgba(15, 15, 16, 0.9)), url("/bg.jpg") fixed center center; */
+	background: linear-gradient(rgba(39, 40, 45, 0.9), rgba(15, 15, 16, 0.9)), url("/bg.jpg") fixed center center;
 	background-size: cover;
 }
 
@@ -193,7 +192,7 @@ button {
 }
 
 img {
-	padding: 2px;
+	margin: 2px;
 }
 
 a:hover {
@@ -227,6 +226,8 @@ body {
 
 .header_img img {
 	max-width: 100px;
+	border-radius: 50%;
+	border: 3px solid var(--primaryColor);
 }
 
 .main {
@@ -290,7 +291,7 @@ body {
 	}
 
 	.Button-icon {
-		margin-right:5px;
+		font-size: 1.4rem !important;
 	}
 
 	body {
@@ -322,11 +323,6 @@ body {
 		text-align: center;
 		font-size: 36px;
 		margin-top: 5px;
-	}
-
-	.header_img img {
-		/* max-width: 70px; */
-		display: none;
 	}
 
 	.footer {
