@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!-- LINKLYST 1.02 | Created by Brad Linder | RAVEN I|I | https://bradlinder.me -->
-
 <head>
 	<title>Linklyst | For listing all the links.</title>
 	<meta charset="UTF-8">
