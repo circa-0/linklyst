@@ -4,7 +4,7 @@ A simple self hosted HTML/PHP/CSS template for listing links to social media or 
 ![https://linklyst.io/fb.jpg](https://linklyst.io/fb.jpg)
 ![https://linklyst.io/example.jpg](https://linklyst.io/example.jpg)
 ---
-# DEMO 1: [linklyst.io](https://linklyst.io)
+# DEMO 1: [https://circa-0.github.io/linklyst/](https://circa-0.github.io/linklyst/)
 # DEMO 2: [amongthenoise.com/links](https://amongthenoise.com/links)
 # DEMO 3: [daviddeputy.com](https://daviddeputy.com)
 # Usage
