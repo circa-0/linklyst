@@ -10,7 +10,7 @@
 
 html {
 	background: var(--secondaryColor);
-	background: linear-gradient(rgba(39, 40, 45, 0.9), rgba(15, 15, 16, 0.9)), url("/bg.jpg") fixed center center;
+	background: linear-gradient(rgba(39, 40, 45, 0.9), rgba(15, 15, 16, 0.9)), url("bg.jpg") fixed center center;
 	background-size: cover;
 }
 
