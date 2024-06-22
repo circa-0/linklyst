@@ -29,7 +29,7 @@ I used variables for the colors to make it easy for you to change up the colors 
 ```
 # Icons
 Linklyst uses the free version of FontAwesome 6. All icons are called with the `<i></i>` tags. Go to [fontawesome.com/icons](https://fontawesome.com/icons) to find the icons you want for each link. No need to download anything extra, just find the icon you want, click it, and it should give you the `<i>` tag code.
-![https://teel.im/Edb240621.jpg][https://teel.im/Edb240621.jpg)
+![https://teel.im/Edb240621.jpg](https://teel.im/Edb240621.jpg)
 # Background
 The background is default to just a color, however you can uncomment the second background line in the html element in style.css to have a background image. I recommend an image around 1920 x 985 minimum, like the example.
 ```
